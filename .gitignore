@@ -1,6 +1,3 @@
-# Prerequisites
-*.d
-
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +27,27 @@
 *.exe
 *.out
 *.app
+
+# VIM files
+*.swp
+*.swo
+
+# Build directories
+/build*
+/build-html
+/install
+/install-html
+/buildNative
+
+# CLion IDE files
+/.idea
+/cmake-build*
+
+# Visual Studio files
+/build-msvs
+/.vs
+CMakeSettings.json
+/Win32
+
+# sketchup backup files
+*.skb

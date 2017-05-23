@@ -1,0 +1,3 @@
+[submodule "extern/RunTimeCompiledCPlusPlus"]
+	path = extern/RunTimeCompiledCPlusPlus
+	url = https://github.com/dtmoodie/RunTimeCompiledCPlusPlus
